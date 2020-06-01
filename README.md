@@ -50,7 +50,7 @@ mv /sdcard/titredelavideo/
 
 ## `Retrouvez moi sur` :
 
-[![Github](https://img.shields.io/badge/Github-Phantom-19--lightpink?style=for-the-badge&logo=github)](https://github.com/Faxel18)
+[![Github](https://img.shields.io/badge/Github-%40Phantom--19-cyan?style=for-the-badge&logo=github)](https://github.com/Phantom-19)
 [![YouTube](https://img.shields.io/badge/Youtube-%40FasterAxel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCdmpFkmXAoSpG9fu1x0VPWw)
 [![Twitter](https://img.shields.io/badge/Twitter-%40KouadioAntoin13-lightblue?style=for-the-badge&logo=Twitter)](https://twitter.com/KouadioAntoin13)
 [![Instagram](https://img.shields.io/badge/Instagram-%40faxel.19-magenta?style=for-the-badge&logo=instagram)](https://www.instagram.com/faxel19)
