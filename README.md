@@ -1,6 +1,5 @@
 <p align="left">
-<a href="#"><img title="Made in Ivory Coast" src="https://img.shields.io/badge/MADE%20IN-IVORY COAST-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-<p align="right">
+<a href="#"><img title="Made in Ivory Coast" src="https://img.shields.io/badge/MADE%20IN-IVORY COAST-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a><p align="right">
 <a href="#"><img title="YouTube download" src="https://img.shields.io/badge/YOUTUBE%20DOWNLOAD-cyan?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center"
