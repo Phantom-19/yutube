@@ -43,8 +43,8 @@ mv /sdcard/titredelavideo/
 ````black, white, red, green, blue, cyan, magenta, yellow, lime, brown, darkgray, gray, lightgray, olive, orange, pink, purple, teal, violet````
 
 - [x] Terminer la base 
-- [x] Faxel 
-- [x] 
+- [x] 🇨🇮 Faxel 🇨🇮 
+- [x] 🇨🇮I'm the person whom you can never judge.🇨🇮 
 
 ### `Si vous copiez ce code, alors donnez-moi les crédits` 
 
