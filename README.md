@@ -1,8 +1,7 @@
 <p align="left">
 <a href="#"><img title="Made in Ivory Coast" src="https://img.shields.io/badge/MADE%20IN-IVORY COAST-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
 <p align="right">
-<a href="#"><img title="YouTube download" src="https://img.shields.io/badge/YOUTUBE%20DOWNLOAD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="YouTube download" src="https://img.shields.io/badge/YOUTUBE%20DOWNLOAD-cyan?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center"
 <a href="https://github.com/Phantom-19"><img title="Auteur" src="https://img.shields.io/badge/Auteur-Faxel-red.svg?style=for-the-badge&logo=github"></a>
@@ -54,8 +53,8 @@ mv /sdcard/titredelavideo/
 [![Instagram](https://img.shields.io/badge/Instagram-%40faxel.19-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/faxel19)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://www.messenger.com/t/faxel19)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-%40Faxel-yellow?style=for-the-badge&logo=whatsapp)](https://wa.me/22555709610)
-[![Telegram](https://img.shields.io/badge/Telegram-%40Faxelh-blue?style=for-the-badge&logo=telegram)](https://t.me/Faxelh)
-[![Pastebin](https://img.shields.io/badge/Pastebin-Faxel-cyan?style=for-the-badge&logo=pastebin)](https://pastebin.com/u/Faxel)
+[![Telegram](https://img.shields.io/badge/Telegram-%40Faxelh-cyan?style=for-the-badge&logo=telegram)](https://t.me/Faxelh)
+[![Pastebin](https://img.shields.io/badge/Pastebin-Faxel-bold?style=for-the-badge&logo=pastebin)](https://pastebin.com/u/Faxel)
 [![Facebook](https://img.shields.io/badge/Facebook-%40Faxel--19-blue?style=for-the-badge&logo=Facebook)](https://www.facebook.com/Faxel19)
 [![Skyrock](https://img.shields.io/badge/Skyrock-%40kouadiok-red?style=for-the-badge&logo=skyrock)](https://kouadiok.skyrock.com/profil/)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?style=flat-square)]
