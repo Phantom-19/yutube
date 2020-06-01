@@ -1,0 +1,19 @@
+clear
+
+echo ""
+toilet -f pagga         Yutube          | lolcat
+echo ""
+echo "Mise a jour de Yutube en cours........." | lolcat
+echo ""
+git pull origin master
+echo ""
+echo "Mise à jour de Yutube terminer........." | lolcat
+echo ""
+figlet -f small Yutube a jour ! | lolcat
+
+echo ""
+
+toilet -f pagga  Faxel | lolcat
+sleep 3
+echo ""
+clear
