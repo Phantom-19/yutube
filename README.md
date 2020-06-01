@@ -2,8 +2,8 @@
 <a href="#"><img title="Made in Ivory Coast" src="https://img.shields.io/badge/MADE%20IN-IVORY COAST-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="right">
-<a href="#"><img title="YouTube download" src="https://img.shields.io/badge/MADE%20IN-IVORY COAST-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-<\p>
+<a href="#"><img title="YouTube download" src="https://img.shields.io/badge/YOUTUBE%20DOWNLOAD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
 <p align="center"
 <a href="https://github.com/Phantom-19"><img title="Auteur" src="https://img.shields.io/badge/Auteur-Faxel-red.svg?style=for-the-badge&logo=github"></a>
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
