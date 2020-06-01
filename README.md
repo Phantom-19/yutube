@@ -1,12 +1,15 @@
-# yutube
-
 <p align="left">
-<a href="#"><img title="YouTube download" src="https://img.shields.io/badge/MADE%20IN-IVORY COAST-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 <a href="#"><img title="Made in Ivory Coast" src="https://img.shields.io/badge/MADE%20IN-IVORY COAST-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
+<p align="right">
+<a href="#"><img title="YouTube download" src="https://img.shields.io/badge/MADE%20IN-IVORY COAST-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<\p>
 <p align="center"
 <a href="https://github.com/Phantom-19"><img title="Auteur" src="https://img.shields.io/badge/Auteur-Faxel-red.svg?style=for-the-badge&logo=github"></a>
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
+
+
+
 </p>
 <p align="center">
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-4.0-green.svg?style=flat-square"></a>
@@ -46,7 +49,7 @@ mv /sdcard/titredelavideo/
 
 ## `Retrouvez moi sur` :
 [![Github](https://img.shields.io/badge/Github-Phantom-19--green?style=for-the-badge&logo=github)](https://github.com/Faxel18)
-[![YouTube](https://img.shields.io/badge/Youtube-FasterAxel-green?style=for-the-badge&logo=github)](https://github.com/Faxel18)
+[![YouTube](https://img.shields.io/badge/Youtube-FasterAxel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCdmpFkmXAoSpG9fu1x0VPWw)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter)](https://twitter.com/KouadioAntoin13)
 [![Instagram](https://img.shields.io/badge/Instagram-%40faxel.19-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/faxel19)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://www.messenger.com/t/faxel19)
