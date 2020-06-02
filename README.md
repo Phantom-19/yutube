@@ -62,3 +62,9 @@ mv /sdcard/titredelavideo/
 [![Skyrock](https://img.shields.io/badge/Skyrock-%40kouadiok-brown?style=for-the-badge&logo=skyrock)](https://kouadiok.skyrock.com/profil/)
 [![Snapchat](https://img.shields.io/badge/Snapchat-%40McTony64-yellow?style=for-the-badge&logo=snapchat)](https://www.snapchat.com/add/mctony64)
 [![Donate](https://img.shields.io/badge/Donate-%40PayPal-orange.svg?style=flat-square)]
+
+[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=for-the-badge&logo=License-MIT)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
+[![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg)](https://jekyllrb.com/)
+[![Ruby gem](https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg)](https://rubygems.org/gems/minimal-mistakes-jekyll)
+[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/mmistakes)
+
