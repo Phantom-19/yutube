@@ -104,7 +104,7 @@ def videos():
   #with open(nom_fichier + '.mp4', 'wb') as f:
   with youtube_dl.YoutubeDL(Mael_faxel) as ydl:
    ydl.download([lien])
-  #os.system('mv '+nom_fichier+' /sdcard/)
+  os.system('mv '+nom_fichier+' /sdcard/')
   print("\n\033[1;92mTerminer")
   Street ("\n\033[1;91m[\033[1;93m**\033[1;91m] \033[38;5;214mFaxel\033[1;97m un jour, \033[38;5;214mFaxel \033[1;97mtoujours    \033[1;91m[\033[1;93m**\033[1;91m]")
   raw_input("\n\033[1;91m[\033[38;5;245m Retour\033[1;91m]")
@@ -128,7 +128,7 @@ def audios():
   Street("\n\033[1;93m Titre est celui que procure YouTube.\nSuivre ce modele pour deplacer votre video telecharger.\n\033[1;96m mv titredelavideo /sdcard \n")
   titre = raw_input("\x1b[1;97m Titre \x1b[1;91m : \x1b[1;93m ")
   print("\n\033[1;97m")
-  os.system('mv '+titre+' /sdcard/)
+  os.system('mv '+titre+' /sdcard/')
   print("\n\033[1;92mTerminer")
   Street ("\n\033[1;91m[\033[1;93m**\033[1;91m] \033[38;5;214mFaxel\033[1;97m un jour, \033[38;5;214mFaxel \033[1;97mtoujours    \033[1;91m[\033[1;93m**\033[1;91m]")
   raw_input("\n\033[1;91m[\033[38;5;245m Retour\033[1;91m]")
