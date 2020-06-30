@@ -95,20 +95,55 @@ def choisir():
     print("\n\033[1;91mRemplissez correctement")
     menu()  
     
+#def videos():
+#  print(logo)
+#  lien = raw_input("\x1b[1;97m Lien\x1b[1;91m : \x1b[1;95m ")
+#  nom_fichier = raw_input("\n\033[1;97m Enregistrer sous le nom de \033[1;91m(\033[1;97mex\033[1;91m :\033[1;96m faxel\033[1;91m) : \033[1;93m ")
+#  print("\n\033[1;95m Patientez")
+#  Mael_faxel = {}
+#  #with open(nom_fichier + '.mp4', 'wb') as f:
+#  with youtube_dl.YoutubeDL(Mael_faxel) as ydl:
+#   ydl.download([lien])
+#  os.system('mv '+nom_fichier+' /sdcard/')
+#  print("\n\033[1;92mTerminer")
+#  Street ("\n\033[1;91m[\033[1;93m**\033[1;91m] \033[38;5;214mFaxel\033[1;97m un jour, \033[38;5;214mFaxel \033[1;97mtoujours    \033[1;91m[\033[1;93m**\033[1;91m]")
+#  raw_input("\n\033[1;91m[\033[38;5;245m Retour\033[1;91m]")
 def videos():
-  print(logo)
-  lien = raw_input("\x1b[1;97m Lien\x1b[1;91m : \x1b[1;95m ")
-  nom_fichier = raw_input("\n\033[1;97m Enregistrer sous le nom de \033[1;91m(\033[1;97mex\033[1;91m :\033[1;96m faxel\033[1;91m) : \033[1;93m ")
-  print("\n\033[1;95m Patientez")
-  Mael_faxel = {nom_fichier}
-  #with open(nom_fichier + '.mp4', 'wb') as f:
-  with youtube_dl.YoutubeDL(Mael_faxel) as ydl:
-   ydl.download([lien])
-  os.system('mv '+nom_fichier+' /sdcard/')
-  print("\n\033[1;92mTerminer")
-  Street ("\n\033[1;91m[\033[1;93m**\033[1;91m] \033[38;5;214mFaxel\033[1;97m un jour, \033[38;5;214mFaxel \033[1;97mtoujours    \033[1;91m[\033[1;93m**\033[1;91m]")
-  raw_input("\n\033[1;91m[\033[38;5;245m Retour\033[1;91m]")
-
+    url = raw_input("\n\033[1;91m[\033[1;36m▶\033[1;91m]\033[1;97m Veuillez saisir l'URL la video\033[1;91m : \033[1;93m")
+    nom_fichier = raw_input("\n\033[1;91m[\033[1;36m▶\033[1;91m] \033[1;97mEnregistrer sous le nom de\033[1;91m : \033[1;95m")
+    x = re.match(r'^(https:)[/][/]www.([^/]+[.])*youtube.com', url)
+    try:
+        if x:
+            demande_image = requests.get(url)
+            src = demande_image.content.decode('utf-8')
+            verifier_type = re.search(r'<meta name="medium" content=[\'"]?([^\'" >]+)', src)
+            verifier_type_fichier = verifier_type.group()
+            final = re.sub('<meta name="medium" content="', '', verifier_type_fichier)
+            if final == "video":
+                  Street("\n\033[1;96mTéléchargement de la vidéo en qualité HD en cours...\033[1;97m\n")
+                  extrait_lien_video = re.search(r'meta property="og:video" content=[\'"]?([^\'" >]+)', src)
+                  video_lien = extrait_lien_video.group()
+                  final = re.sub('meta property="og:video" content="', '', video_lien)
+                  _response = requests.get(final).content
+                  taille_fichier_demander = requests.get(final, stream=True)
+                  taille_fichier = int(taille_fichier_demander.headers['Content-Length'])
+                  taille_qualite = 1024 
+                  t=tqdm(total=taille_fichier, unit='B', unit_scale=True, desc=nom_fichier, ascii=True)
+                  with open(nom_fichier + '.mp4', 'wb') as f:
+                      for data in taille_fichier_demander.iter_content(taille_qualite):
+                          t.update(len(data))
+                          f.write(data)
+                  t.close()
+                  print("\033[1;92mVidéo téléchargée avec succès")
+		  raw_input("\t\033[1;91m[[38;5;24mRetour\033[1;91m]")
+                  menu()
+	    else:
+                 print("\033[1;91mL'URL saisie n'est pas une URL d'instagram")
+		 raw_input("\t\033[1;91m[[38;5;24mRetour\033[1;91m]")
+		 menu()
+    except AttributeError:
+          print("\n\033[1;91mURL Inconnue")
+	  menu()
 def audios():
   print(logo)
   audio = raw_input("\033[1;97m╚═\033[1;31m▶[38;5;245m Mr [38;5;221mFaxel \033[1;31m▶▶▶ \033[1;33m")
