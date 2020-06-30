@@ -128,7 +128,7 @@ def videos():
   #with open(nom_fichier + '.mp4', 'wb') as f:
   with youtube_dl.YoutubeDL(Mael_faxel) as ydl:
    ydl.download([lien])
-  os.system('mv'+nom_fichier+' /sdcard/)
+  os.system('mv '+nom_fichier+' /sdcard/)
   print("\n\033[1;92mTerminer")
   Street ("\n\033[1;91m[\033[1;93m**\033[1;91m] \033[38;5;214mFaxel\033[1;97m un jour, \033[38;5;214mFaxel \033[1;97mtoujours    \033[1;91m[\033[1;93m**\033[1;91m]")
   raw_input("\n\033[1;91m[\033[38;5;245m Retour\033[1;91m]")
