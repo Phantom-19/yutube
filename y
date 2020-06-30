@@ -1,17 +1,40 @@
-import argparse
-from pytube import YouTube
+#!usr/bin/python2
+# coding=utf-8 
+
+import os, sys, time, datetime, random
+from time import sleep
+
+try:
+    import mechanize
+except ImportError:
+    os.system("pip2 install mechanize")
+
+try:
+    import youtube_dl
+except ImportError:
+    os.system("pip2 install youtube_dl")
+
+try:
+    import requests
+except ImportError:
+    os.system("pip2 install requests")
+from requests.exceptions import ConnectionError
+from mechanize import Browser
+
 
 def videos(url, itag=None, audio_only=False, output_path=None,
                            filename=None, filename_prefix=None,
                            proxies=None, progress_callback=None):
+   Mael_faxel ={}  
+  with youtube_dl.YoutubeDL(Mael_faxel) as ydl:
     if output_path:
         makedirs(output_path, exist_ok=True)
     if 'http' not in url:
         url = 'https://www.youtube.com/watch?v=%s' % url
     if proxies:
-        video = YouTube(url, proxies=proxies)
+        video = ydl(url, proxies=proxies)
     else:
-        video = YouTube(url)
+        video = ydl(url)
     if progress_callback:
         video.register_on_progress_callback(progress_callback)
     if itag:
@@ -19,13 +42,13 @@ def videos(url, itag=None, audio_only=False, output_path=None,
         stream = video.streams.get_by_itag(itag)
     else:
         stream = video.streams.filter(only_audio=audio_only).first()
-    print('Download Started: %s' % video.title)
+    print('Téléchargement commencé: %s' % video.title)
     if filename:
         filename = safe_filename(filename)
     stream.download(output_path=output_path, filename=filename)
     file_type = '.' + stream.mime_type.split('/')[1]
     filename = stream.default_filename if filename is None else filename + file_type
-    print("Voulez-vous télécharger la vidéo ou l'audio : %s" % filename)
+    print("Téléchargement commencé : %s" % filename)
     return filename
     
 def interactive_mode():
