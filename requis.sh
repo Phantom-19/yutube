@@ -32,18 +32,18 @@ sudo pip install --upgrade youtube_dl
 sudo apt-get install -y libav-tools
 git clone https://github.com/Phantom-19/yutube.git $Installation_du_dossier;
 echo "#!/bin/bash
-python2 $Installation_du_dossier/down" '${1+"$@"}' > down;
-chmod +x down;
+python2 $Installation_du_dossier/you" '${1+"$@"}' > you;
+chmod +x you;
 sudo cp y /usr/bin/;
 
 
-if [ -d "$Installation_du_dossier/yutube" ];
+if [ -d "$Installation_du_dossier/you" ];
 then
     echo "";
     echo "[✔] Outil installé avec succès ![✔]";
     echo "";
     echo "[✔]====================================================================[✔]";
-    echo "[✔] ✔✔✔  Tout est fait!! Vous pouvez exécuter l'outil en tapant youtuber e   !   ✔✔✔ [✔]";
+    echo "[✔] ✔✔✔  Tout est fait!! Vous pouvez exécuter l'outil en tapant you  !  ✔✔✔ [✔]";
     echo "[✔]====================================================================[✔]";
     echo "";
 else
