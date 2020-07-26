@@ -1,18 +1,21 @@
 <p align="left">
-<a href="#"><img title="Made in Ivory Coast" src="https://img.shields.io/badge/MADE%20IN-IVORY COAST-orange?colorA=orange&colorB=green&style=for-the-badge"></a>
+<a href="#"><img title="Made in Ivory Coast" src="https://img.shields.io/badge/MADE%20IN-IVORY COAST-orange?colorA=orange&colorB=green"></a>
 <p align="right">
 <a href="#"><img title="Téléchargement YouTube " src="https://img.shields.io/badge/Téléchargement%20YouTube-cyan?colorA=cyan&colorB=black&style=for-the-badge"></a>
 </p>
+<p align="center">
+<a href="#"><img title="Photo Auteur" src="https://raw.githubusercontent.com/Phantom-19/bash/master/fr.jpg?"></a>
+</p>
 <p align="center"
-<a href="https://raw.githubusercontent.com/Phantom-19/bash/master/fr.jpg"><img title="Auteur" src="https://img.shields.io/badge/Auteur-Faxel-red.svg?style=for-the-badge&logo=github"></a>
-<a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
+<a href="https://github.com/Phantom-19/"><img title="Auteur" src="https://img.shields.io/badge/Auteur-Faxel-red.svg?logo=github"></a>
+<a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-4.0-green.svg?style=flat-square"></a>
-<a href="https://github.com/Phantom-19/followers"><img title="Abonnés" src="https://img.shields.io/github/followers/Phantom-19?color=blue&style=flat-square"></a>
-<a href="https://github.com/Phantom-19/link/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/Phantom-19/link??color=orange&style=flat-square"></a>
-<a href="https://github.com/Phantom-19/link/network/members"><img title="Fourches" src="https://img.shields.io/github/forks/Phantom-19/link??color=red&style=flat-square"></a>
-<a href="https://github.com/Phantom-19/link/watchers"><img title="En train de regarder" src="https://img.shields.io/github/watchers/Phantom-19/link?label=Watchers&color=blue&style=flat-square"></a>
+<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-4.0-green.svg?"></a>
+<a href="https://github.com/Phantom-19/followers"><img title="Abonnés" src="https://img.shields.io/github/followers/Phantom-19?color=blue"></a>
+<a href="https://github.com/Phantom-19/link/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/Phantom-19/link??color=orange"></a>
+<a href="https://github.com/Phantom-19/link/network/members"><img title="Fourches" src="https://img.shields.io/github/forks/Phantom-19/link??color=red"></a>
+<a href="https://github.com/Phantom-19/link/watchers"><img title="En train de regarder" src="https://img.shields.io/github/watchers/Phantom-19/link?label=Watchers&color=blue"></a>
 <p align="right">
 <a href="#"><img title="Langage" src="https://forthebadge.com/images/badges/made-with-python.svg"></a>
 </p>
@@ -36,9 +39,9 @@ apt update ; apt install git curl -y ; git clone git clone https://github.com/Ph
 mv /titredelavideo /sdcard/
 ```
 [![Linux](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
-[![OS](https://img.shields.io/badge/Tester%20sur-Linux-yellowgreen.svg?style=flat-square)
-[![Python2.7](https://img.shields.io/badge/Python-2.7-green.svg?style=flat-square)](https://www.python.org/downloads/release/python-2714/)
-[![Python3.7](https://img.shields.io/badge/Python-3.7-orange.svg?style=flat-square)](https://www.python.org/download/releases/3.0/) 
+[![OS](https://img.shields.io/badge/Tester%20sur-Linux-yellowgreen.svg?)
+[![Python2.7](https://img.shields.io/badge/Python-2.7-green.svg?)](https://www.python.org/downloads/release/python-2714/)
+[![Python3.7](https://img.shields.io/badge/Python-3.7-orange.svg?)](https://www.python.org/download/releases/3.0/) 
 
 ## `Installation sous Linux `
 ```
