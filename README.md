@@ -1,21 +1,23 @@
 <p align="left">
 <a href="#"><img title="Made in Ivory Coast" src="https://img.shields.io/badge/MADE%20IN-IVORY COAST-orange?colorA=orange&colorB=green"></a>
 <p align="right">
-<a href="#"><img title="Téléchargement YouTube " src="https://img.shields.io/badge/Téléchargement%20YouTube-cyan?colorA=cyan&colorB=black&style=for-the-badge"></a>
+<a href="#"><img title="Téléchargement YouTube " src="https://img.shields.io/badge/Téléchargement%20YouTube-cyan?colorA=cyan&colorB=black"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Photo Auteur" src="https://raw.githubusercontent.com/Phantom-19/bash/master/fr.jpg?"></a>
-</p>
+<img alt="Phantom-19' Statistiques Github" src="https://github-readme-stats.vercel.app/api?username=Phantom-19&show_icons=true&include_all_commits=true&hide_border=true"/>
+<img alt="profile pic" width="195px" src="https://raw.githubusercontent.com/Phantom-19/bash/master/fr.jpg"/> 
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Phantom-19&hide=ruby,perl&hide_border=true"/>
+</p> 
 <p align="center"
 <a href="https://github.com/Phantom-19/"><img title="Auteur" src="https://img.shields.io/badge/Auteur-Faxel-red.svg?logo=github"></a>
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-4.0-green.svg?"></a>
+<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-0.5-green.svg?"></a>
 <a href="https://github.com/Phantom-19/followers"><img title="Abonnés" src="https://img.shields.io/github/followers/Phantom-19?color=blue"></a>
-<a href="https://github.com/Phantom-19/link/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/Phantom-19/link??color=orange"></a>
-<a href="https://github.com/Phantom-19/link/network/members"><img title="Fourches" src="https://img.shields.io/github/forks/Phantom-19/link??color=red"></a>
-<a href="https://github.com/Phantom-19/link/watchers"><img title="En train de regarder" src="https://img.shields.io/github/watchers/Phantom-19/link?label=Watchers&color=blue"></a>
+<a href="https://github.com/Phantom-19/yutube/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/Phantom-19/yutube??color=orange"></a>
+<a href="https://github.com/Phantom-19/yutube/network/members"><img title="Fourches" src="https://img.shields.io/github/forks/Phantom-19/yutube??color=red"></a>
+<a href="https://github.com/Phantom-19/yutube/watchers"><img title="En train de regarder" src="https://img.shields.io/github/watchers/Phantom-19/yutube?label=Watchers&color=blue"></a>
 <p align="right">
 <a href="#"><img title="Langage" src="https://forthebadge.com/images/badges/made-with-python.svg"></a>
 </p>
@@ -30,13 +32,16 @@
 
 ## ` Execution > ` `python2 down`
 
+## ` NOM D'UTILISATEUR : Faxel    `
+## ` MOT DE PASSE      : 08127934 `
+
 ##  `Commande unique `:
 ```
 apt update ; apt install git curl -y ; git clone git clone https://github.com/Phantom-19/yutube.git ; cd yutube ; pip2 install mechanize ;   pip2 install requests ; python2 down;
 ```
 ##  `Astuce pour deplacer la vidéo sur la carte memoire `:
 ```
-mv /titredelavideo /sdcard/
+mv titre de la video /sdcard/
 ```
 [![Linux](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 [![OS](https://img.shields.io/badge/Tester%20sur-Linux-yellowgreen.svg?)
@@ -60,7 +65,7 @@ bash <(curl -s https://raw.githubusercontent.com/yutube/down/master/requis.sh)
 ## `Retrouvez moi sur` :
 
 [![Github](https://img.shields.io/badge/Github-%40Phantom--19-cyan?logo=github)](https://github.com/Phantom-19)
-[![YouTube](https://img.shields.io/badge/Youtube-%40FasterAxel-red?logo=youtube)](https://www.youtube.com/channel/UCdmpFkmXAoSpG9fu1x0VPWw)
+[![YouTube](https://img.shields.io/badge/Youtube-%40FasterAxel-red?logo=youtube)](https://www.youtube.com/c/FASTERAXEL)
 [![Twitter](https://img.shields.io/twitter/follow/Faxel2020.svg?style=flat-square&label=Me%20suivre&logo=twitter)](https://twitter.com/Faxel2020)
 [![Instagram](https://img.shields.io/badge/Instagram-%40faxel19-magenta?logo=instagram)](https://www.instagram.com/faxel19)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?logo=messenger)](https://www.messenger.com/t/faxel19)
