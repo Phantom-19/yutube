@@ -1,7 +1,7 @@
 <p align="left">
 <a href="#"><img title="Made in Ivory Coast" src="https://img.shields.io/badge/MADE%20IN-IVORY COAST-orange?colorA=orange&colorB=green"></a>
 <p align="right">
-<a href="#"><img title="Téléchargement YouTube " src="https://img.shields.io/badge/Téléchargement%20YouTube-cyan?colorA=cyan&colorB=black"></a>
+<a href="#"><img title="Téléchargement YouTube " src="https://img.shields.io/badge/Téléchargement-%20YouTube-cyan?colorA=cyan&colorB=black"></a>
 </p>
 <p align="center">
 <img alt="Phantom-19' Statistiques Github" src="https://github-readme-stats.vercel.app/api?username=Phantom-19&show_icons=true&include_all_commits=true&hide_border=true"/>
@@ -23,12 +23,9 @@
 </p>
 
 ## `Installation de yutube `:
-* `apt update`
 * `apt install git curl python2 python `
 * `git clone https://github.com/Phantom-19/yutube.git`
 * `cd yutube`
-* `pip2 install mechanize`
-* `pip2 install requests`
 
 ## ` Execution > ` `python2 down`
 
@@ -76,4 +73,4 @@ bash <(curl -s https://raw.githubusercontent.com/yutube/down/master/requis.sh)
 [![Skyrock](https://img.shields.io/badge/Skyrock-%40Faxel-brown?logo=skyrock)](https://Faxel.skyrock.com/profil/)
 [![Snapchat](https://img.shields.io/badge/Snapchat-%40McTony64-yellow?logo=snapchat)](https://www.snapchat.com/add/mctony64)
 [![npm](https://img.shields.io/badge/npm-%40Faxel-yellow?logo=npm)](https://www.npmjs.com/~faxel)
-[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?logo=License-MIT)](https://raw.githubusercontent.com/Phantom-19/yutube/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?logo=License-MIT)](https://raw.githubusercontent.com/Phantom-19/yutube/master/MIT)
